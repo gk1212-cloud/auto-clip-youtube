@@ -1,0 +1,6 @@
+work/
+out/
+chosen_video.json
+__pycache__/
+*.pyc
+.env
